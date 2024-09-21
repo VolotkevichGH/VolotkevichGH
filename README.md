@@ -13,10 +13,9 @@
 </div>
 
 ### About me
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- 📝 I am a technical lead at baldmonkeyLTD
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/vsevolod-volotkevich-91407a299/), [email](mailto:volotkevich.softdev@gmail.com)
+- 🌍 I speak English, Russian
 
 ---
 
